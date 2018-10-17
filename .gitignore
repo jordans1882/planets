@@ -1,1 +1,4 @@
-tags
+*.dat
+*.log
+logs/
+results/
